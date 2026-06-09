@@ -57,17 +57,18 @@ The Streamlit dashboard includes:
 ---
 
 ## 📁 Project Structure
-wealth-behavior-profiler/
-│
-├── dashboard.py               # Streamlit dashboard app
-├── explore.ipynb              # Data exploration notebook
-├── Budget.csv                 # Budget data by category
-├── personal_transactions.csv  # 806 transaction records
-├── budget_vs_actual.png       # Chart export
-├── monthly_trend.png          # Chart export
-├── category_trends_clean.png  # Chart export
-├── persona_clusters.png       # Chart export
-└── health_scores.png          # Chart export
+
+    wealth-behavior-profiler/
+    │
+    ├── dashboard.py               # Streamlit dashboard app
+    ├── explore.ipynb              # Data exploration notebook
+    ├── Budget.csv                 # Budget data by category
+    ├── personal_transactions.csv  # 806 transaction records
+    ├── budget_vs_actual.png       # Chart export
+    ├── monthly_trend.png          # Chart export
+    ├── category_trends_clean.png  # Chart export
+    ├── persona_clusters.png       # Chart export
+    └── health_scores.png          # Chart export
 
 ---
 
